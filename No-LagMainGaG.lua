@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://rawscripts.net/raw/Grow-a-Garden-NoLag-Hub-no-key-38699"))()
+loadstring(game:HttpGet("https://pastefy.app/QVhcCF3I/raw"))()
